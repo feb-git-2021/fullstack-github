@@ -1,7 +1,11 @@
 David Smith
 Scott
-John Doe
+<<<<<<< HEAD
+John Smith
+=======
+John Smith
+>>>>>>> branch2
 Tina
 Lea
-Vijay
-Ramesh
+Vijay Mane
+Ramesh Lal
