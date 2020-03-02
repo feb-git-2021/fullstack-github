@@ -1,6 +1,6 @@
-David
+David Smith
 Scott
-John
+John Doe
 Tina
 Lea
 Vijay
