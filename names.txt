@@ -1,10 +1,6 @@
 David Smith
 Scott
-<<<<<<< HEAD
 John Smith
-=======
-John Smith
->>>>>>> branch2
 Tina
 Lea
 Vijay Mane
